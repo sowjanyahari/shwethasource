@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 gigjdvjbjdkvjk
+=======
+sdvhcvsjvchjxvhjdshjjjhj
+>>>>>>> 99adf2b5916c1b2f81dd12b63eb2bb91b0a977f4
 
 
 giiiii
